@@ -1,16 +1,41 @@
-## Hi there 👋
+Hi, I'm Roshin Sajan! 👋
 
-<!--
-**RoshinSajan/RoshinSajan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science Engineer | Web Developer | STEM & Coding Educator
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I have a Master's degree in Computer Science Engineering and an interest in web development, programming, robotics, and artificial intelligence. I also enjoy helping students develop their coding, creativity, and problem-solving skills through hands-on technology projects.
+
+💻 Skills & Interests
+
+Frontend: Angular, HTML5, CSS3, JavaScript, TypeScript
+Backend : MySQL
+Tools: Git, GitHub, Visual Studio Code
+Programming: C, C++, Java, Python, Scratch, Block-Based Coding
+
+Educational Technology: PictoBlox, STEM Robotics
+
+Artificial Intelligence and Project Development
+
+Problem-Solving and Creative Computing
+
+🚀 Projects
+
+Web Development Projects
+
+Python Programming Projects
+
+Scratch Games and Animations
+
+AI and PictoBlox Projects
+
+Robotics and STEM Activities
+
+🎯 My Goal
+
+To continue learning, building useful technology projects, and using my computer science knowledge to solve real-world problems.
+
+🤝 Let's Connect
+
+I am interested in connecting with developers, educators, and technology enthusiasts to learn, collaborate, and grow.
+
